@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+ .hero-content a {
+      padding: 10px 20px;
+      background-color: #28a745;
+      color: white;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+
+    .hero-content a:hover {
+      background-color: #218838;
+    }
